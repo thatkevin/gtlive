@@ -1,0 +1,34 @@
+baseurl: "/"
+url: "https://ghosttown.live"
+permalink: pretty
+title: "Jenna Jones - Music PR"
+collections_dir: collections
+markdown: kramdown
+highlighter: rouge
+
+sass:
+  style: compact
+
+include: [".well-known"]
+
+bands:
+  - lemonheads
+  - bert_jansch
+    name: "Sarah Becker"
+    role: "project lead"
+    start_date: "2016-02-01"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - yarn.lock
+  - package.json
+  - package-lock.json
+  - vendor
+  - LICENSE.md
+  - LICENSE
+  - README.md
+  - .vscode
+  - .gitignore
+  - .liquidrc
