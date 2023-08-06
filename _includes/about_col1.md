@@ -1,1 +1,1 @@
-I'm Head of Press col 1 at Fire Records. More info etc
+Head of Press at Fire Records
