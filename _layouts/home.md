@@ -48,7 +48,7 @@
                 <p class="masthead-subheading font-weight-light mb-0 text-uppercase">Music press and promotion</p>
             </div>
         </header>
-        <!-- Portfolio Section-->
+        <!-- Portfolio Section
         <section class="page-section portfolio" id="portfolio">
             <div class="container">
                 <!-- Portfolio Section Heading-->
@@ -73,6 +73,7 @@
                 </div>
             </div>
         </section>
+        -->
         
         <!-- About Section-->
         <section class="page-section bg-primary mb-0" id="about">
